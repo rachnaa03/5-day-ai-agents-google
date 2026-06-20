@@ -5,10 +5,10 @@ This repository contains my work from Kaggle's **5-Day AI Agents Intensive Cours
 ## 📅 Progress
 
 - ✅ Day 1: Introduction to Agents & Vibe Coding
-- ⬜ Day 2
-- ⬜ Day 3
-- ⬜ Day 4
-- ⬜ Day 5
+- ✅ Day 2: Agent Skills & ADK Fundamentals
+- ✅ Day 3: Agent Workflows & Multi-Agent Systems
+- ✅ Day 4: AI Agents Labs
+- ✅ Day 5: Production Deployment & Agent Runtime
 - ⬜ Capstone Project
 
 ---
@@ -19,6 +19,8 @@ This repository contains my work from Kaggle's **5-Day AI Agents Intensive Cours
 - Gemini 3.5 Flash
 - Antigravity 2.0
 - Antigravity IDE
+- Agent Development Kit (ADK)
+- Google Cloud CLI
 - Cloud Run
 - Python
 - Git & GitHub
@@ -38,37 +40,21 @@ capstone/
 
 ---
 
-## 🌟 Day 1 Highlights
-
-### 🔹 Learned
-
-- Vibe Coding
-- Agentic Engineering
-- Skills and Context in Antigravity
-
-### 🔹 Built
-
-Event Animations App with:
-
-- ❄️ Snowflakes animation
-- 🎈 Balloons animation
-
-### 🔹 Deployment
-
-Published using Google AI Studio → Cloud Run.
-
----
-
-## 📸 Screenshots
-
-Screenshots are available in:
-
-```
-day1/screenshots/
-```
-
----
-
 ## 🎯 Goal
 
 Complete all 5 days and build a capstone AI Agent project.
+
+---
+
+## 📌 Day 5 Notes
+
+Completed:
+
+- Production deployment preparation
+- Dependency locking (`uv lock`)
+- Dry-run deployment validation
+- Google Cloud CLI installation and authentication
+- Application Default Credentials (ADC) setup
+- Agent Platform API enablement
+
+> Actual deployment to Vertex AI Agent Engine was optional and requires billing to be enabled, so it was not completed.
